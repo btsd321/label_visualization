@@ -1,4 +1,4 @@
-
+# 多边形框可视化脚本
 import os
 import json
 import cv2
